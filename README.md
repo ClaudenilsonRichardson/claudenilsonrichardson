@@ -1,22 +1,40 @@
-# 👋 Olá, eu sou o Claudenilson
-
-💻 Estudante de Análise e Desenvolvimento de Sistemas (Uninter)  
+# 👋 Olá, eu sou o Claudenilson  
+💻 Desenvolvedor em formação apaixonado por tecnologia  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Uninter)  
 🚀 Focado em desenvolvimento web e programação  
-📚 Atualmente aprendendo Python, HTML, CSS e lógica de programação  
 
 ---
 
 ## 🚀 Sobre mim
-Estou em transição para a área de tecnologia e construindo minha base em desenvolvimento e lógica de programação.
+Estou construindo minha base em desenvolvimento web e lógica de programação, com foco em evoluir para projetos mais avançados na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias
-- HTML
-- CSS
-- Python (em aprendizado)
+## 📚 Atualmente aprendendo e praticando:
+- Python  
+- HTML  
+- CSS  
+- Lógica de programação  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- HTML5  
+- CSS3  
+- Python (em aprendizado)  
+- Git e GitHub  
 
 ---
 
 ## 📈 Em evolução
 Este perfil será atualizado com projetos práticos conforme avanço nos estudos.
+
+---
+
+## 📂 Projetos em destaque
+- ☕ Clone do Starbucks — Interface web desenvolvida com HTML e CSS  
+
+---
+
+## 📫 Contato
+- LinkedIn: 
